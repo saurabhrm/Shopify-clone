@@ -1,20 +1,39 @@
-#  **Saurabh Mehare**
+#  **Hi, I'm Saurabh Mehare**
+
+## Project Title
+
+> - Shopify | Clone
+
+## Project Description
+
+> - This is a Homepage of shopify.com. clone project that has been assignments by our mentor Hitesh Choudhary Sir. Project is build on pure Tailwind.
 
 
->### Project majorly built from -
+## What learn in this project?
+> - Learned more classes in Tailwind CSS.
+> - Implemented hover animations.
+> - Mobile Responsive breakpoint classes in Tailwind CSS
 
--  HTML 
-- Tailwind CSS
 
 
->### The project took 12 Hours to complete.
+## Enhancements
 
->### Features
+![mobile-responsive](https://img.shields.io/badge/Mobile%20Responsive-Yes-green)
+[![Deployed](https://img.shields.io/badge/Deployed-Yes-green)](https://shopify-alpha-iota.vercel.app/)
 
-- Mobile Responsive
+## Tech Stack:
 
----
----
->Clone Homepage of shopify.in. Project is build on pure Tailwind
+![HTML](https://img.shields.io/badge/html-3670A0?style=for-the-badge&logo=html5&logoColor=white)
+![tailwind](https://img.shields.io/badge/tailwind%20css-03203C?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
->### [Live Project Link Click Here ](https://shopi-fyclone.netlify.app/)
+
+
+# ![Time](https://img.shields.io/badge/Time%20Taken-12hrs-green)
+
+
+
+>## **[Live Project Link Click Here ](https://shopi-fyclone.netlify.app/)**
+
+
+
+
